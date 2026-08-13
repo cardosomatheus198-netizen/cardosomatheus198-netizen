@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>👋 Olá! Bem-vindo ao meu GitHub <h1/>
+🚀 Sobre Mim 
+<br>
+<br>
+Sou um Programador em formação apaixonado por criar soluções — do frontend ao backend — transformo ideias em aplicações.
 
-<!--
-**cardosomatheus198-netizen/cardosomatheus198-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Acredito que bom código é aquele que é legível, eficiente e resolve problemas reais. Cada linha que escrevo é pensada com propósito.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<h1>
+  💻 tech stack
+  <br>
+    <h2>Front-end
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-logo" /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS-logo" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript-logo" />  
+    </h2>
+<h1/>
